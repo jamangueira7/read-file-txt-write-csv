@@ -1,0 +1,4 @@
+Tv led,2900.99,2
+PS 5,3850.10,5
+Notebook Dell,5200.32,3
+Geladeira,3641.00,3
